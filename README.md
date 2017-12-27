@@ -1,0 +1,1 @@
+此项目包含三个工程，SpringCloudEurka-helloconsumer是其中一个为Feign消费者。整套三个工程包括SpringCloudEurkaDemo(Eureka注册中心也就是eureka-center工程)，服务的提供者SpringCloudEurka-helloservice1（hello-service1工程）
